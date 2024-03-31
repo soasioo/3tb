@@ -40,7 +40,7 @@
 <key>PayloadIdentifier</key>
 <string>khoindvn.bio.link.profile</string>
 <key>PayloadOrganization</key>
-<string>No more revokes!?!</string>
+<string>شهادة</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
@@ -50,9 +50,9 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Just a small tweak to make it useable again. Made by: 3tbshadow, discord :https://discord.gg/ckgZHUMy </string>
+<string> Made by: 3tbshadow, discord :https://discord.gg/ckgZHUMy </string>
 <key>PayloadDisplayName</key>
-<string>Antirevoke</string>
+<string>antirevoke+shadow3tb</string>
 <key>PayloadIdentifier</key>
 <string>khoindvn.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
