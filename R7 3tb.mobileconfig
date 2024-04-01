@@ -1,1 +1,46 @@
-
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>ServerAddresses</key>
+<array/>
+<key>SupplementalMatchDomains</key>
+<array>
+<string>.heima911.com</string>
+<string>l4e3t.yiu0j70v.com</string>
+<string>.yiu0j70v.com</string>
+</array>
+</dict>
+<key>PayloadDescription</key>
+<string>عز وعتب R7</string>
+<key>PayloadDisplayName</key>
+<string> عز وعتب و </string>
+<key>PayloadIdentifier</key>
+<string>com.tiktok.ru.dns</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>[unique-uuid-1]</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>عز وعتب R7</string>
+<key>PayloadDisplayName</key>
+<string>عتب سكارليت </string>
+<key>PayloadIdentifier</key>
+<string>com.tiktok.ru</string>
+<key>PayloadOrganization</key>
+<string> عتب</string>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>[unique-uuid-2]</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</plist>
