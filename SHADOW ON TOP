@@ -1,0 +1,56 @@
+wait(0.1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "مرحبا بك في سكربت سيرفر شادو";
+    Text = ""; -تم تفعيل- ARAB TEAM
+    Duration = 5;
+})
+
+
+
+
+
+
+
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("3TB/SHADOW بيتا", "DarkTheme")
+local Tab = Window:NewTab("سكربتات بلوكس")
+local Section = Tab:NewSection("اغلب سكربتات بتنزل بعدين")
+Section:NewButton(" سكربت ريدز بدون مفتاح", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+end)
+Section:NewButton("سكربت ديمونز بدون مفتاح", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))(
+end)
+Section:NewButton("دراغون هب بدون مفتاح", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Dragon-Hub/main/Script-Execute.lua"))()
+end)
+
+Section:NewButton("فيكتور هب بدون مفتاح", "ButtonInfo", function()
+    print("Clicked") loadstring(game:HttpGet("https://raw.githubusercontent.com/AAwful/VectorHub/main/Loader.lua"))()
+end)
+
+Section:NewButton("هوهو هب بمفتاح", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+end)
+
+local Tab = Window:NewTab("سكربتات MM2")
+local Section = Tab:NewSection("افضل سكربتات MM2")
+Section:NewButton("سكربت MM2 بدون مفتاح", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/Anashatem/S/main/Cg"))()
+end)
+Section:NewButton("قريبا...", "ButtonInfo", function()
+    print("Clicked")
+local Tab = Window:NewTab("بليد بول")
+Section:NewButton("سكربت بليد بول", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/BladeV4.lua'))();
+end)
+Section:NewButton("سكربت ريدز ", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng"))()
+end)
+Section:NewButton("سكربت اوتو فارم", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://scriptblox.com/raw/Blade-Ball-Autofarm-8968"))()
+end)
+local Section = Tab:NewSection("قريبا...")
+local Section = Tab:NewSection("قريبا...")
+local Section = Tab:NewSection("قريبا...")
