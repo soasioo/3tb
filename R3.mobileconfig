@@ -20,11 +20,11 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Adblock</string>
+<string>حظر اعلانات</string>
 <key>PayloadIdentifier</key>
 <string>vevrl9air2.cloudflare-gateway.com.profile</string>
 <key>PayloadOrganization</key>
-<string>Blocks 99% of ads</string>
+<string>حقوق سيرفر رجفع</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
