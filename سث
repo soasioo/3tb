@@ -1,0 +1,7 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("3TB/SHADOW", "DarkTheme")
+local Tab = Window:NewTab("سكربتات بلوكس")
+local Section = Tab:NewSection("اغلب سكربتات بتنزل بعدين")
+Section:NewButton(" سكربت ريدز بدون مفتاح", "ButtonInfo", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+end)
